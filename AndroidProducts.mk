@@ -1,7 +1,7 @@
 # Product Makefiles
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/awaken_miatoll.mk
+    $(LOCAL_DIR)/lineage_miatoll.mk
 
 # Lunch targets
 COMMON_LUNCH_CHOICES := \
-    awaken_miatoll-userdebug
+    lineage_miatoll-userdebug

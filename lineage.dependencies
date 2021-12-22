@@ -1,9 +1,9 @@
 [
     {
         "remote":       "github",
-        "repository":   "BladeRunner-A2C/msm-4.14-miatoll",
+        "repository":   "Scissorboi/kernel_xiaomi_sm6250",
         "target_path":  "kernel/xiaomi/miatoll",
-        "branch":       "sapphire"
+        "branch":       "overclock"
     },
     {
         "remote":       "github",
